@@ -2,7 +2,7 @@
 using Android.Widget;
 using Android.OS;
 
-namespace ConferenceM
+namespace ConferenceM // teste
 {
     [Activity(Label = "ConferenceM", MainLauncher = true)]
     public class MainActivity : Activity
